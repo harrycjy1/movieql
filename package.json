@@ -1,0 +1,12 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "bootcamp for grqphql",
+  "main": "index.js",
+  "repository": "https://github.com/harrycjy1/movieql.git",
+  "author": "choddol",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
